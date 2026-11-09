@@ -1,4 +1,3 @@
-4153278110?e=16879968008v=beta&t=kBa1Xjs0xtLI4yiKhyCmS6hE8z-40PKWhLzPkqqIzks)
 <h1 align="center">Hi 👋, I'm BERRA SALMAN</h1>
 <h3 align="center">A passionate frontend developer from TÜRKİYE</h3>
 
